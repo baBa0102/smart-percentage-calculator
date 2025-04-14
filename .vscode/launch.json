@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "PercentageLogic",
+        "request": "launch",
+        "mainClass": "PercentageLogic",
+        "projectName": "Smart Percentage Calculator_bb1b97f6"
+      },
+      {
+        "type": "java",
+        "name": "PercentageLogicTest",
+        "request": "launch",
+        "mainClass": "PercentageLogicTest",
+        "projectName": "Smart Percentage Calculator_bb1b97f6"
+      },
+      {
+        "type": "java",
+        "name": "Launch JavaFX App",
+        "request": "launch",
+        "mainClass": "CalculatorApp",
+        "vmArgs": "--module-path C:/Users/basit/Downloads/openjfx-24_windows-x64_bin-sdk/javafx-sdk-24/lib --add-modules javafx.controls,javafx.fxml"
+      }
+    ]
+  }
+  
