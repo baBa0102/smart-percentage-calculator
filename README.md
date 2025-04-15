@@ -18,11 +18,6 @@ A modern JavaFX-based calculator that not only performs standard arithmetic oper
 - 💎 **Polished iOS-style UI**
 
 ---
-> *(Add a screenshot of your app UI here when ready)*  
-> Example:
-> `![App Screenshot](screenshot.png)`
-
----
 
 ## 📦 Technologies Used
 
